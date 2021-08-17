@@ -16,7 +16,7 @@ dos números 3, 5, 6, 9 e 10 que são menores que 11.
 
 1: Clone o repositorio ou faça o download manualmente.
 
-2: Abra o projeto em um compilador por exemplo: vscode.
+2: Abra o projeto em um compilador por exemplo: vscode. E abra o arquivo índex.html
 
 3: Para rodar aperte f5 ou se estiver no vscode -> Run -> Start
 Debugging.
